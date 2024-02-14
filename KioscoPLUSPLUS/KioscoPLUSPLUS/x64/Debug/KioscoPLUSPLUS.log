@@ -1,0 +1,3 @@
+﻿  proveedor.cpp
+C:\Users\programador\Desktop\KioscoPLUSPLUS\PROVEEDORES\CLASE proveedor\proveedor.cpp(50,7): warning C4101: 'opcion': variable local sin referencia
+  KioscoPLUSPLUS.vcxproj -> C:\Users\programador\Desktop\KioscoPLUSPLUS\x64\Debug\KioscoPLUSPLUS.exe
